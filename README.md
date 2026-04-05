@@ -1,4 +1,5 @@
 📋 Visão Geral do Projeto
+
 Este projeto consistiu na criação de um ecossistema de Business Intelligence para análise de performance financeira global. 
 O objetivo foi consolidar dados de vendas, custos e unidades comercializadas entre 2013 e 2014, permitindo uma visão clara da rentabilidade por produto, segmento de mercado e localização geográfica.
 Projeto foi estruturado durante o curso.
